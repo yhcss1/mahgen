@@ -1,0 +1,9 @@
+.vscode
+.idea
+bak
+
+/node_modules
+
+# production
+/dist
+
